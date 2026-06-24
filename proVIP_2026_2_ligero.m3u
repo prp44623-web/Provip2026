@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN
+http://goldtv.lat:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/444055.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 2" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 2
+http://goldtv.lat:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/444067.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.postimg.cc/TY0N7Zhn/disney-channel.png" group-title="📺 INFANTILES PREMIUM",Disney Channel
+http://example.com/disney.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/XvpPyQjd/cartoon-network.png" group-title="📺 INFANTILES PREMIUM",Cartoon Network
+http://example.com/cartoon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/pXR1B2V2/nickelodeon.png" group-title="📺 INFANTILES PREMIUM",Nickelodeon
+http://example.com/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/MTBr9HjG/discovery-kids.png" group-title="📺 INFANTILES PREMIUM",Discovery Kids
+http://example.com/discovery-kids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://i.postimg.cc/Hn4vCNzD/disney-junior.png" group-title="📺 INFANTILES PREMIUM",Disney Junior
+http://example.com/disney-junior.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.postimg.cc/fWxrX3N2/babyfirst.png" group-title="📺 INFANTILES PREMIUM",Baby TV
+http://example.com/babytv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/National_Geographic_logo.svg/2560px-National_Geographic_logo.svg.png" group-title="📚 CULTURA Y DOCUMENTALES",National Geographic
+http://example.com/natgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/History_Channel_logo.svg/2560px-History_Channel_logo.svg.png" group-title="📚 CULTURA Y DOCUMENTALES",History Channel
+http://example.com/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Channel_logo.svg/2560px-Discovery_Channel_logo.svg.png" group-title="📚 CULTURA Y DOCUMENTALES",Discovery Channel
+http://example.com/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BBC_Earth_logo.svg/2560px-BBC_Earth_logo.svg.png" group-title="📚 CULTURA Y DOCUMENTALES",BBC Earth
+http://example.com/bbcearth.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fin de lista - Gracias por usar proVIP_2026_2" tvg-logo="" group-title="",Fin de lista
+http://example.com/end.ts
